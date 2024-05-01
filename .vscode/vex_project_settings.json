@@ -1,0 +1,19 @@
+{
+	"extension": {
+		"version": "0.5.0",
+		"json": 2
+	},
+	"project": {
+		"name": "V5GyroTest",
+		"description": "",
+		"creationDate": "11/16/2023, 9:12:27 AM",
+		"platform": "V5",
+		"language": "cpp",
+		"slot": 7,
+		"sdkVersion": "V5_20220726_10_00_00",
+		"cpp": {
+			"includePath": [],
+			"printf_float": true
+		}
+	}
+}
